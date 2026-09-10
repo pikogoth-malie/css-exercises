@@ -1,9 +1,10 @@
-.read{
+#perview{
     background-color: black; color: white;
 }
-.unread{
+#display{
     background-color: yellow;
 }
-#preview#display{
+.read
+.unread{
     font-size: 28px; font-family: 'Times New Roman', 'Helvetica', sans-serif;
 }
