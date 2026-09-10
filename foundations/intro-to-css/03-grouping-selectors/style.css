@@ -4,3 +4,6 @@
 .unread{
     background-color: yellow;
 }
+#preview#display{
+    font-size: 28px; font-family: 'Times New Roman', 'Helvetica', sans-serif;
+}
