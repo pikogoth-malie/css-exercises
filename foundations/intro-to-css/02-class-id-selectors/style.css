@@ -7,3 +7,6 @@
 .odd.sp{
     font-size: 24px;
 }
+#greater{
+    background-color: rgb(125, 230, 125); font-size: 24px; font-weight: bold;
+}
