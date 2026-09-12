@@ -1,7 +1,7 @@
-#perview{
+.read{
     background-color: black; color: white;
 }
-#display{
+.unread{
     background-color: yellow;
 }
 .read
