@@ -31,8 +31,9 @@ body {
 }
 
 .button.confirm
-.button.cancel{
+.button.cancel {
   border-color: black;
+  border-width: 2px;
 }
 
 .text .text.child {
