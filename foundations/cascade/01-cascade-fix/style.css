@@ -30,7 +30,7 @@ body {
   font-size: 20px;
 }
 
-.button.confirm
+#confirm-button
 .button.cancel {
   border-color: black;
   border-width: 2px;
