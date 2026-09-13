@@ -30,6 +30,11 @@ body {
   font-size: 20px;
 }
 
+.button.confirm
+.button.cancel{
+  border-color: black;
+}
+
 .text .text.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
