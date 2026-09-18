@@ -22,3 +22,8 @@ button {
   display: block;
   background: white;
 }
+
+.button-container{
+  padding: 30px;
+  text-align: center;
+}
