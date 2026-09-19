@@ -34,4 +34,5 @@ button {
 .button-container{
   padding: 30px;
   text-align: center;
+  align-content: center;
 }
