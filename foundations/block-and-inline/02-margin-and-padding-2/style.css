@@ -21,7 +21,6 @@ body {
 button {
   display: block;
   background: white;
-  border:100px;
 }
 
 .button-container{
