@@ -19,11 +19,11 @@
 }
 
 ul {
-
+  display: flex;
   /* this removes the dots on the list items*/
   list-style-type: none;
   gap: 10px;
-  border: 30px 10px;
+  border: 30px 10px 30px 10px;
 }
 
 a {
