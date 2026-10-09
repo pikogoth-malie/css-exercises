@@ -47,10 +47,16 @@ ul {
 
 .content {
   display: flex;
+  flex-direction: column;
   align-self: center;
   flex-grow: 1;
   justify-content: center;
-  align-items: center
+  align-items: center;
+  gap: 8px;
+}
+
+.buttons{
+  padding: 5px;
 }
 
 .footer{
