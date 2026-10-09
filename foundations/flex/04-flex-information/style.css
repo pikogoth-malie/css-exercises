@@ -34,3 +34,7 @@ img {
 .text{
   text-align: center;
 }
+
+.item{
+  justify-content: center;
+}
