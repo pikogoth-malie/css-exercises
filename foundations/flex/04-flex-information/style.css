@@ -32,9 +32,16 @@ img {
 }
 
 .text{
+  display: flex;
   text-align: center;
 }
 
 .item{
+  display: flex;
   justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-grow: 0;
+  padding-right: 30px;
+  padding-left: 30px; 
 }
