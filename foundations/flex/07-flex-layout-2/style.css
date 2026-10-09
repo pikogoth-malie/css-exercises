@@ -24,9 +24,6 @@ body {
   box-sizing: border-box;
 }
 
-.item {
-  display: flex;
-}
 
 .card {
   flex-grow: 1;
