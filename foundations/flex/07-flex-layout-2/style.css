@@ -10,7 +10,7 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
-  font-size: 72;
+  font-size: 72px;
   font-weight: bolder;
 }
 
@@ -19,7 +19,7 @@ body {
   background: #eee;
   color: darkmagenta;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
 }
 
 .sidebar {
@@ -39,6 +39,7 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   align-content: center;
+  row-gap: 20px;
 }
 
 
