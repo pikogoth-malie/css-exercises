@@ -41,7 +41,7 @@ ul {
 
 .header {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-shrink: 1;
 }
 
@@ -70,5 +70,6 @@ ul {
 .right-links {
   display: flex;
   gap: 8px;
+  padding: 0;
 }
 
