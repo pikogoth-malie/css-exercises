@@ -32,6 +32,7 @@ input {
 
 a {
   text-decoration: none;
+  color: grey;
 }
 
 ul {
@@ -59,5 +60,8 @@ ul {
 .right-links {
   display: flex;
   gap: 8px;
-  color: grey;
+}
+
+.content {
+  flex-grow: 1;
 }
