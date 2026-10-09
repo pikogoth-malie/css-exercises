@@ -41,7 +41,7 @@ ul {
 
 .header {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   flex-shrink: 1;
 }
 
