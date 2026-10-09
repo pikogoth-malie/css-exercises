@@ -2,10 +2,14 @@
 
 body {
   display: flex;
+  flex-direction: column;
   height: 100vh;
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  flex-shrink: 0;
+  flex-basis: 1;
+  flex-flow: 1;
 }
 
 img {
@@ -30,6 +34,10 @@ a {
   text-decoration: none;
 }
 
+ul {
+  list-style: none;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -45,4 +53,9 @@ a {
   background-color: #eee;
   justify-content: space-between;
   padding: 30px;
+}
+
+.left-links,
+.right-links {
+  display: flex;
 }
